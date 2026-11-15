@@ -1,0 +1,32 @@
+body {background-color: lightpink;}
+
+.hobby {color:crimson;
+text-align: center;
+background-color: bisque;
+padding: 5px;
+font-size : 2rem;
+border-radius: 5px;
+font-family: cursive}
+
+.baking {text-align: center}
+
+.baking_2 {font-size: 1.5rem;
+    color: crimson;
+    font-family: cursive;
+    background-color: bisque;
+padding: 5px;
+    border-radius: 5px;
+}
+
+
+.baking_3 {font-size: 1.5rem;
+    color: crimson;
+    font-family: cursive;
+    background-color: bisque;
+padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+
